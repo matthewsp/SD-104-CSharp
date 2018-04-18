@@ -1,0 +1,11 @@
+C:\Users\EdgeTech1\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\EdgeTech1\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\EdgeTech1\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\EdgeTech1\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\EdgeTech1\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.0\ConsoleApp5.deps.json
+C:\Users\EdgeTech1\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.0\ConsoleApp5.runtimeconfig.json
+C:\Users\EdgeTech1\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.0\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\EdgeTech1\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.0\ConsoleApp5.dll
+C:\Users\EdgeTech1\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.0\ConsoleApp5.pdb
+C:\Users\EdgeTech1\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.dll
+C:\Users\EdgeTech1\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.pdb

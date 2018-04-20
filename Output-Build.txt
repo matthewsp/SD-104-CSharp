@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: GCD finder, Configuration: Debug Any CPU ------
+1>GCD finder -> C:\Users\EdgeTech1\source\repos\SD-104-CSharp\GCD finder\GCD finder\bin\Debug\netcoreapp2.0\GCD finder.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

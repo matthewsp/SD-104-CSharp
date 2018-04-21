@@ -1,0 +1,11 @@
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.deps.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.runtimeconfig.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.runtimeconfig.dev.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.dll
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.pdb
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.AssemblyInfo.cs
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.dll
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.pdb

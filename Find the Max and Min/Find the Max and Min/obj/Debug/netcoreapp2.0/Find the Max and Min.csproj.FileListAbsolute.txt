@@ -1,0 +1,11 @@
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Find the Max and Min\Find the Max and Min\obj\Debug\netcoreapp2.0\Find the Max and Min.csprojResolveAssemblyReference.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Find the Max and Min\Find the Max and Min\obj\Debug\netcoreapp2.0\Find the Max and Min.csproj.CoreCompileInputs.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Find the Max and Min\Find the Max and Min\obj\Debug\netcoreapp2.0\Find the Max and Min.AssemblyInfoInputs.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Find the Max and Min\Find the Max and Min\obj\Debug\netcoreapp2.0\Find the Max and Min.AssemblyInfo.cs
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Find the Max and Min\Find the Max and Min\bin\Debug\netcoreapp2.0\Find the Max and Min.deps.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Find the Max and Min\Find the Max and Min\bin\Debug\netcoreapp2.0\Find the Max and Min.runtimeconfig.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Find the Max and Min\Find the Max and Min\bin\Debug\netcoreapp2.0\Find the Max and Min.runtimeconfig.dev.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Find the Max and Min\Find the Max and Min\bin\Debug\netcoreapp2.0\Find the Max and Min.dll
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Find the Max and Min\Find the Max and Min\bin\Debug\netcoreapp2.0\Find the Max and Min.pdb
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Find the Max and Min\Find the Max and Min\obj\Debug\netcoreapp2.0\Find the Max and Min.dll
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Find the Max and Min\Find the Max and Min\obj\Debug\netcoreapp2.0\Find the Max and Min.pdb

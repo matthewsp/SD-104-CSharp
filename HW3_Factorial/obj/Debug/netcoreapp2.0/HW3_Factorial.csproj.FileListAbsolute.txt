@@ -1,0 +1,11 @@
+C:\Users\EdgeTech1\source\repos\HW3_Factorial\HW3_Factorial\obj\Debug\netcoreapp2.0\HW3_Factorial.csprojResolveAssemblyReference.cache
+C:\Users\EdgeTech1\source\repos\HW3_Factorial\HW3_Factorial\obj\Debug\netcoreapp2.0\HW3_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\EdgeTech1\source\repos\HW3_Factorial\HW3_Factorial\obj\Debug\netcoreapp2.0\HW3_Factorial.AssemblyInfoInputs.cache
+C:\Users\EdgeTech1\source\repos\HW3_Factorial\HW3_Factorial\obj\Debug\netcoreapp2.0\HW3_Factorial.AssemblyInfo.cs
+C:\Users\EdgeTech1\source\repos\HW3_Factorial\HW3_Factorial\bin\Debug\netcoreapp2.0\HW3_Factorial.deps.json
+C:\Users\EdgeTech1\source\repos\HW3_Factorial\HW3_Factorial\bin\Debug\netcoreapp2.0\HW3_Factorial.runtimeconfig.json
+C:\Users\EdgeTech1\source\repos\HW3_Factorial\HW3_Factorial\bin\Debug\netcoreapp2.0\HW3_Factorial.runtimeconfig.dev.json
+C:\Users\EdgeTech1\source\repos\HW3_Factorial\HW3_Factorial\bin\Debug\netcoreapp2.0\HW3_Factorial.dll
+C:\Users\EdgeTech1\source\repos\HW3_Factorial\HW3_Factorial\bin\Debug\netcoreapp2.0\HW3_Factorial.pdb
+C:\Users\EdgeTech1\source\repos\HW3_Factorial\HW3_Factorial\obj\Debug\netcoreapp2.0\HW3_Factorial.dll
+C:\Users\EdgeTech1\source\repos\HW3_Factorial\HW3_Factorial\obj\Debug\netcoreapp2.0\HW3_Factorial.pdb

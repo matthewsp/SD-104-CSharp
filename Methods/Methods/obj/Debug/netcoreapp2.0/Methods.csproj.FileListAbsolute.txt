@@ -1,0 +1,11 @@
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Methods\Methods\bin\Debug\netcoreapp2.0\Methods.deps.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Methods\Methods\bin\Debug\netcoreapp2.0\Methods.runtimeconfig.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Methods\Methods\bin\Debug\netcoreapp2.0\Methods.runtimeconfig.dev.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Methods\Methods\bin\Debug\netcoreapp2.0\Methods.dll
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Methods\Methods\bin\Debug\netcoreapp2.0\Methods.pdb
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.csprojResolveAssemblyReference.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.AssemblyInfoInputs.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.AssemblyInfo.cs
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.dll
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\Methods\Methods\obj\Debug\netcoreapp2.0\Methods.pdb

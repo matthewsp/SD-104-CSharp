@@ -1,0 +1,11 @@
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\WarGame\WarGame\bin\Debug\netcoreapp2.0\WarGame.deps.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\WarGame\WarGame\bin\Debug\netcoreapp2.0\WarGame.runtimeconfig.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\WarGame\WarGame\bin\Debug\netcoreapp2.0\WarGame.runtimeconfig.dev.json
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\WarGame\WarGame\bin\Debug\netcoreapp2.0\WarGame.dll
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\WarGame\WarGame\bin\Debug\netcoreapp2.0\WarGame.pdb
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\WarGame\WarGame\obj\Debug\netcoreapp2.0\WarGame.csprojResolveAssemblyReference.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\WarGame\WarGame\obj\Debug\netcoreapp2.0\WarGame.csproj.CoreCompileInputs.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\WarGame\WarGame\obj\Debug\netcoreapp2.0\WarGame.AssemblyInfoInputs.cache
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\WarGame\WarGame\obj\Debug\netcoreapp2.0\WarGame.AssemblyInfo.cs
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\WarGame\WarGame\obj\Debug\netcoreapp2.0\WarGame.dll
+C:\Users\EdgeTech1\source\repos\SD-104-CSharp\WarGame\WarGame\obj\Debug\netcoreapp2.0\WarGame.pdb

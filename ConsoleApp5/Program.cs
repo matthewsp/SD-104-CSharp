@@ -13,44 +13,36 @@ namespace HW1
             Console.WriteLine("D to convert KM to miles, E to convert CM to inches, F to convert kg to lbs");
             Console.Write("Enter choice: ");
             choice = Console.ReadLine();
-
+            Conversion conversion = new Conversion();
             switch (choice)
             {
                 case "A":
                     Console.WriteLine("How many miles?: ");
-                        double milesA = Int32.Parse(Console.ReadLine());
-                        double kmA = milesA * 1.6;
-                        Console.WriteLine(milesA + " miles = " + kmA + " kilometers");
-                        break;
+                    conversion.ConvertMilesToKm();
+                    break;
                 case "B":
                     Console.WriteLine("How many inches?: ");
-                    double inchesB = Int32.Parse(Console.ReadLine());
-                    double cmB = inchesB * 2.54;
-                    Console.WriteLine(inchesB + " inches = " + cmB + " centimeters");
+                   conversion.ConvertInchesToCM();
                     break;
                 case "C":
                     Console.WriteLine("How many pounds?");
-                    double lbC = Int32.Parse(Console.ReadLine());
-                    double kgC = lbC * 0.45359237;
-                    Console.WriteLine(lbC + " pounds = " + kgC + " kg");
+                    conversion.ConvertPoundsToKG();
+                    break;
+                case "D":
+                    Console.WriteLine("How many kilometers?");
+                    conversion.ConvertKMToMiles();
                     break;
                 case "E":
                     Console.WriteLine("How many centimeters?");
-                    double cmE = Int32.Parse(Console.ReadLine());
-                    double inchesE = 0.39 * cmE;
-                    Console.WriteLine(cmE + " centimeters = " + inchesE + " inches");
+                    conversion.ConvertCMToInches();
                     break;
                 case "F":
                     Console.WriteLine("How many kilograms?");
-                    double kgF = Int32.Parse(Console.ReadLine());
-                    double lbF = 2.2 * kgF;
-                    Console.WriteLine(kgF + " kilograms = " + lbF + " pounds");
+                    conversion.ConvertKGtoPounds();
                     break;
-
-
             }
-
-            //continues here
+            Console.Read();
+            
         }
     }
 }

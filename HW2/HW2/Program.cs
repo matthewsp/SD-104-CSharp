@@ -6,7 +6,7 @@ namespace HW2
     {
         static void Main(string[] args)
         {
-            Console.Write("Which index of the Fibonacci sequence you want the value for?");
+            Console.Write("Which index of the Fibonacci sequence do you want the value for?");
             int index = Int32.Parse(Console.ReadLine());
             int prevnumber = 1;
             int prevprevnumber = 0;

@@ -33,7 +33,7 @@ namespace WarGame
               if (P1Card.IsEqual(P2Card))
                 {
                     Console.WriteLine("War!");
-                    warpoints = warpoints + 2;
+                    warpoints = warpoints + 2;                   
                 }
                 Console.Read();
               if(deck.theCards.Count == 0)

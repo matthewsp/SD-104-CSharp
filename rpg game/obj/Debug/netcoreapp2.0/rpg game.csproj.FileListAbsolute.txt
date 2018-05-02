@@ -1,0 +1,11 @@
+C:\Users\EdgeTech1\source\repos\rpg game\obj\Debug\netcoreapp2.0\rpg game.csprojResolveAssemblyReference.cache
+C:\Users\EdgeTech1\source\repos\rpg game\obj\Debug\netcoreapp2.0\rpg game.csproj.CoreCompileInputs.cache
+C:\Users\EdgeTech1\source\repos\rpg game\obj\Debug\netcoreapp2.0\rpg game.AssemblyInfoInputs.cache
+C:\Users\EdgeTech1\source\repos\rpg game\obj\Debug\netcoreapp2.0\rpg game.AssemblyInfo.cs
+C:\Users\EdgeTech1\source\repos\rpg game\bin\Debug\netcoreapp2.0\rpg game.deps.json
+C:\Users\EdgeTech1\source\repos\rpg game\bin\Debug\netcoreapp2.0\rpg game.runtimeconfig.json
+C:\Users\EdgeTech1\source\repos\rpg game\bin\Debug\netcoreapp2.0\rpg game.runtimeconfig.dev.json
+C:\Users\EdgeTech1\source\repos\rpg game\bin\Debug\netcoreapp2.0\rpg game.dll
+C:\Users\EdgeTech1\source\repos\rpg game\bin\Debug\netcoreapp2.0\rpg game.pdb
+C:\Users\EdgeTech1\source\repos\rpg game\obj\Debug\netcoreapp2.0\rpg game.dll
+C:\Users\EdgeTech1\source\repos\rpg game\obj\Debug\netcoreapp2.0\rpg game.pdb
